@@ -1,4 +1,4 @@
-# AgroGuide
+# Farmers-Marketplace
 
 AgroGuide is a full-stack web application that connects the agricultural community—farmers, laborers, contractors, sellers, and administrators—using modern web technologies and multiple APIs. It provides real-time market insights, work listings, and communication tools to help users make informed decisions in agriculture.
 
@@ -306,6 +306,6 @@ Please adhere to the existing code style and project structure.
 
 For questions or further information, please contact:
 
-Nitin Singh<br>
-Email: nitin0309singh@gmail.com<br>
-GitHub: Nitin-singh03
+Ayush Mittal<br>
+Email: ayushmittal764@gmail.com<br>
+
